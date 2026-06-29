@@ -1,0 +1,380 @@
+canonical_identifier: bkk:krp/KR3ei015/v1
+canonical_location: https://kanripo.org/bkk/KR3ei015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 內府秘傳經驗女科
+  identifiers:
+    krp: KR3ei015
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei015.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ei015_001.yaml, hash: 'sha256:1383193850f9d57bca5a67c09a980d8ec2d48d371388089292316824eb522552'}
+  - {seq: 2, filename: KR3ei015_002.yaml, hash: 'sha256:816361f5e8899e9a2c4bdf831ffa1a83834a9a2c02d2774115597b3f9ae0de2e'}
+  - {seq: 3, filename: KR3ei015_003.yaml, hash: 'sha256:85d104d21cc759cf8ae7d6dc333d245cf4ed3e6e2275f0cf8a1feefd9ddcbf30'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR3ei015_002.markers.yaml, hash: 'sha256:a9c6591044a2c7bc4a2aef41deca780c468f06b1916303f5538765084088250b'}
+  - {seq: 3, role: markers, filename: assets/KR3ei015_003.markers.yaml, hash: 'sha256:c0db11db5f075ec266142d5afed61234e60ae247138c18b1bd9348535dd4b359'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ei015_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 483
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei015_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 168
+  label: 月經前期論一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei015_jc_001-d2d3
+    span:
+    - body
+    - 168
+    - 358
+  label: 月經後期論二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei015_jc_001-d2d4
+    span:
+    - body
+    - 358
+    - 483
+  label: 月經或前或後三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 3517
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 177
+  label: 脈法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d3
+    span:
+    - body
+    - 177
+    - 212
+  label: 辨孕男女脈法歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d4
+    span:
+    - body
+    - 212
+    - 409
+  label: 調經
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d5
+    span:
+    - body
+    - 409
+    - 567
+  label: 經閉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d6
+    span:
+    - body
+    - 567
+    - 739
+  label: 崩漏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d7
+    span:
+    - body
+    - 739
+    - 908
+  label: 赤白帶
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d8
+    span:
+    - body
+    - 908
+    - 1190
+  label: 安胎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d9
+    span:
+    - body
+    - 1190
+    - 1308
+  label: 漏胎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d10
+    span:
+    - body
+    - 1308
+    - 1437
+  label: 胎痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d11
+    span:
+    - body
+    - 1437
+    - 1863
+  label: 惡阻
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d12
+    span:
+    - body
+    - 1863
+    - 1968
+  label: 胎腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d13
+    span:
+    - body
+    - 1968
+    - 2175
+  label: 子煩
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d14
+    span:
+    - body
+    - 2175
+    - 2311
+  label: 子癇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d15
+    span:
+    - body
+    - 2311
+    - 2434
+  label: 子懸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d16
+    span:
+    - body
+    - 2434
+    - 2546
+  label: 子淋
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d17
+    span:
+    - body
+    - 2546
+    - 2670
+  label: 胎死上喘
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d18
+    span:
+    - body
+    - 2670
+    - 2909
+  label: 胎衣不下
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d19
+    span:
+    - body
+    - 2909
+    - 3202
+  label: 產後寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d20
+    span:
+    - body
+    - 3202
+    - 3284
+  label: 產後血暈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d21
+    span:
+    - body
+    - 3284
+    - 3449
+  label: 產後腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei015_jc_002-d3d22
+    span:
+    - body
+    - 3449
+    - 3517
+  label: 陰戶脫
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6509
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 2996
+  label: 調經種子
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d3
+    span:
+    - body
+    - 2996
+    - 3298
+  label: 崩漏論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d4
+    span:
+    - body
+    - 3298
+    - 3579
+  label: 赤白帶論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d5
+    span:
+    - body
+    - 3579
+    - 4178
+  label: 安胎論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d6
+    span:
+    - body
+    - 4178
+    - 4777
+  label: 產後論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d7
+    span:
+    - body
+    - 4777
+    - 5108
+  label: 產後血塊論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d8
+    span:
+    - body
+    - 5108
+    - 6085
+  label: 生化湯論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei015_jc_003-d4d9
+    span:
+    - body
+    - 6085
+    - 6509
+  label: 產後症治活法
+  type: section
+  level: 2
+hash: sha256:44cbaa7a930a76789cf7ac589ae32363fa322b8eca971a4659242a40a8f840f9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

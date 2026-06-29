@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3ei015/jc/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一月經前期論一其症血來如豬肝水五心作熱腰疼小腹痛面萎色黃不思飲食乃氣血皆虛先用黃芩散退其五心煩熱後用調經丸次月血勝疾除而人清安矣黃芩散川芎川歸酒洗炒白芍蒼朮米泔浸甘草天花粉知母黃芩水一盅煎七八分溫服渣並調經丸三稜醋炒莪朮醋炒川芎川歸酒洗白芍酒洗小茴生地酒洗熟地八角茴玄胡白茯砂仁烏藥香附各二兩童便炒上為末早米糊丸梧桐子大不拘時酒下百丸月經後期論二其經來如屋漏水頭昏目暗小腹作痛更兼白帶咽中臭如魚腥噁心吐逆先用理經四物湯次服內補當歸丸下月疾愈理經四物湯川芎三川歸七酒洗白芍七生地八黃芩七白朮八柴胡五香附一錢玄胡一錢三稜七醋炒水一盅煎七分內補當歸丸續斷八阿膠一炒甘草四錢川芎七錢乾薑五錢炙白芷六錢白芍一錢二酒炒熟地五錢蒲黃一錢厚朴八分薑汁炒吳茱萸七錢附子泡白茯苓八錢肉蓯蓉八錢酒洗上或各一兩蜜丸如梧桐子大空心酒下八十丸月經或前或後三其症因脾土不勝不思飲食由此血衰月水往後期矣或次月飲食多進月水又往前矣用藥不須調血只宜理脾脾土勝旺血勻氣順自然應期當紫金丸紫金丸青皮陳皮良薑蒼朮米泔水浸檳榔枳殼砂仁微炒紅豆香附制烏藥三稜醋炒莪朮各二兩上為末早米糊丸梧桐子大食前米湯送下百丸
+  hash: sha256:e89626d16dab28af5b45fe6190ce29e1a17a5ce61133a3420860c7bc8fa9b7f9
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ei015_jc_001-d2.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ei015_jc_001-d2d2, level: 2, head_text: 月經前期論一}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ei015_jc_001-d2.d2.h1s1}
+  - {type: 'tls:div-end', offset: 168, content: '', id: KR3ei015_jc_001-d2d2}
+  - {type: 'tls:div-start', offset: 168, content: '', id: KR3ei015_jc_001-d2d3, level: 2, head_text: 月經後期論二}
+  - {type: 'tls:head', offset: 168, content: '', id: KR3ei015_jc_001-d2.d3.h1s1}
+  - {type: 'tls:div-end', offset: 358, content: '', id: KR3ei015_jc_001-d2d3}
+  - {type: 'tls:div-start', offset: 358, content: '', id: KR3ei015_jc_001-d2d4, level: 2, head_text: 月經或前或後三}
+  - {type: 'tls:head', offset: 358, content: '', id: KR3ei015_jc_001-d2.d4.h1s1}
+  - {type: 'tls:div-end', offset: 483, content: '', id: KR3ei015_jc_001-d2d4}
+metadata:
+  title: 內府秘傳經驗女科
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei015.xml
+hash: sha256:1383193850f9d57bca5a67c09a980d8ec2d48d371388089292316824eb522552
